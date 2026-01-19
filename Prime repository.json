@@ -1,0 +1,8 @@
+{
+  "name": "Prime repository",
+  "description": "Netflix, PrimeVideo, Moviebox, StreamPlay, PrimeLive TV ",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/malikasadullah/Prime_Repository/refs/heads/main/Prime%20plugins.json"
+  ]
+}
