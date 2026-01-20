@@ -131,7 +131,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "fileSize": 39162,
-        "status": 1
+        "status": 1,
         "authors": [
             "Phisher98"
         ],
@@ -141,7 +141,7 @@
             "Cartoon"
         ],
         "version": 2,
-        "internalName": "Prime Cartoos",
+        "internalName": "Prime Cartoons",
         "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kartoons.jar",
         "description": "Prime Cartoons (Cartoon & Animes)",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kartoons.cs3",
