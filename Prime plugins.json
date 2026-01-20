@@ -68,7 +68,7 @@
         "name": "StreamPlay"
 },
 {
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime_Repository/refs/heads/main/Prime%20logos/MovieBox.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
         "fileSize": 48069,
@@ -106,7 +106,7 @@
         "name": "NetMirror"
     },
 {
-        "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime_Repository/refs/heads/main/Prime%20logos/file_00000000abe07230bd32903e0e3efa95%20(1).png",
+        "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime_Repository/refs/heads/main/Prime%20logos/PrimeLive%20TV.png",
         "jarFileSize": 359809,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
@@ -126,7 +126,7 @@
         "name": "PrimeLive TV"
 },
     {
-        "iconUrl": "https://kartoons.fun/logo.png",
+        "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime_Repository/refs/heads/main/Prime%20logos/Prime%20Cartoons.png",
         "jarFileSize": 183183,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
@@ -142,10 +142,10 @@
             "Cartoon"
         ],
         "version": 2,
-        "internalName": "Kartoons",
+        "internalName": "Prime Cartoos",
         "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kartoons.jar",
-        "description": "Kartoons (Cartoon & Animes)",
+        "description": "Prime Cartoons (Cartoon & Animes)",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kartoons.cs3",
-        "name": "Kartoons"
+        "name": "Prime Cartoons"
     }
 ]
