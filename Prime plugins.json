@@ -124,5 +124,28 @@
         "description": "Watch Live sports and TV channels",
         "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.cs3",
         "name": "PrimeLive TV"
+},
+    {
+        "iconUrl": "https://kartoons.fun/logo.png",
+        "jarFileSize": 183183,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 39162,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 2,
+        "internalName": "Kartoons",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kartoons.jar",
+        "description": "Kartoons (Cartoon & Animes)",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kartoons.cs3",
+        "name": "Kartoons"
     }
 ]
