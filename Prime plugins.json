@@ -21,10 +21,10 @@
         "name": "Extractors"
    },
 {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 394681,
+        "fileSize": 475115,
         "status": 1,
         "authors": [
             "megix"
@@ -36,7 +36,7 @@
             "Anime",
             "Torrent"
         ],
-        "version": 258,
+        "version": 291,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
