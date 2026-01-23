@@ -1,0 +1,40 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Mangoporn.cs3",
+        "status": 1,
+        "version": 14,
+        "name": "Mango",
+        "internalName": "Mango",
+        "authors": [
+            "kraptor",
+            "ByAyzen",
+            "HindiProvider"
+        ],
+        "description": "Mango",
+        "fileSize": 59356,
+        "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+        "tvTypes": [
+            "Others"
+        ],
+        "iconUrl": "https://mangoporn.net/wp-content/uploads/2024/07/mangoporn.net_.png",
+        "apiVersion": 1
+ },
+     {
+        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/PornHub.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "Hub",
+        "internalName": "Hub",
+        "authors": [
+            "kraptor"
+        ],
+        "description": "Hub",
+        "fileSize": 15794,
+        "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+        "tvTypes": [
+            "Others"
+        ],
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.pornhub.com/&size=128",
+        "apiVersion": 1
+}
+   ] 
