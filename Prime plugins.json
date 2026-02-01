@@ -85,12 +85,12 @@
         "description": "Multi Language Movies and Series Provider",
         "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
         "name": "MovieBox"
-    },
-{
+},
+    {
         "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
-        "fileSize": 48129,
+        "fileSize": 51324,
         "status": 1,
         "authors": [
             "Sushan64"
@@ -100,10 +100,10 @@
             "TvSeries"
         ],
         "version": 42,
-        "internalName": "NetMirror",
+        "internalName": "Netmirror",
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
         "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
-        "name": "NetMirror"
+        "name": "Netmirror"
     },
 {
         "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime_Repository/refs/heads/main/Prime%20logos/PrimeLive%20TV.png",
