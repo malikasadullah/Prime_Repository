@@ -1,9 +1,9 @@
 [
-    {
+  {
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Extractors/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 39629,
+        "fileSize": 47359,
         "status": 1,
         "authors": [
             "megix"
@@ -14,17 +14,17 @@
             "AsianDrama",
             "Anime"
         ],
-        "version": 83,
+        "version": 87,
         "internalName": "Extractors",
         "description": "Must Install(For other extensions to work properly)",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
         "name": "Extractors"
-   },
-       {
+    },
+{
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 480143,
+        "fileSize": 496434,
         "status": 1,
         "authors": [
             "megix"
@@ -36,12 +36,12 @@
             "Anime",
             "Torrent"
         ],
-        "version": 300,
+        "version": 321,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
         "name": "CineStream"
-},
+    },
   {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
@@ -106,10 +106,10 @@
     },
 {
         "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime_Repository/refs/heads/main/Prime%20logos/PrimeLive%20TV.png",
-        "jarFileSize": 359809,
+        "jarFileSize": 375320,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 73737,
+        "fileSize": 78592,
         "status": 1,
         "authors": [
             "NivinCNC"
@@ -117,33 +117,31 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 20,
+        "version": 26,
         "internalName": "PrimeLive TV",
         "jarUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.jar",
         "description": "Watch Live sports and TV channels",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.cs3",
+        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/DoFlixProvider.cs3",
         "name": "PrimeLive TV"
-},
-    {
-        "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime_Repository/refs/heads/main/Prime%20logos/Prime%20Cartoons.png",
-        "jarFileSize": 183183,
+}, 
+   {
+        "iconUrl": "https://appteka.store/get/a20p17EuCKFD08AaFsfH3JSJ6OU30ccp18WrKaNDze4LqOsDArhKj13-f-SjAayiWJH6P6pv9AlzhcfzEXlmRokU-I4=/726bbb91e36da425f55efce72cccb3a82df1d265.png",
+        "jarFileSize": 345546,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 39162,
+        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+        "fileSize": 71079,
         "status": 1,
         "authors": [
-            "Phisher98"
+            "NivinCNC"
         ],
         "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "Cartoon"
+            "Live"
         ],
         "version": 2,
-        "internalName": "Prime Cartoons",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kartoons.jar",
-        "description": "Prime Cartoons (Cartoon & Animes)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kartoons.cs3",
-        "name": "Prime Cartoons"
- }
+        "internalName": "SKTechProvider",
+        "jarUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SKTechProvider.jar",
+        "description": "Watch Live sports and TV channels via SK Tech",
+        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SKTechProvider.cs3",
+        "name": "SKTechProvider"
+    } 
 ]
