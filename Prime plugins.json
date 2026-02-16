@@ -85,24 +85,26 @@
         "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
         "name": "MovieBox"
 },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
+  {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
-        "fileSize": 51324,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 57391,
         "status": 1,
         "authors": [
-            "Sushan64"
+            "megix"
         ],
         "tvTypes": [
             "Movie",
-            "TvSeries"
+            "TvSeries",
+            "AsianDrama",
+            "Anime"
         ],
-        "version": 42,
-        "internalName": "Netmirror",
-        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
-        "name": "Netmirror"
+        "version": 45,
+        "internalName": "NetMirror",
+        "description": "Netflix, PrimeVideo(Lionsgate), JioHotstar(Hotstar, Disney, Paramount, HBO, Peacock) Content in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
+        "name": "NetMirror"
     },
    {
         "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
@@ -111,7 +113,6 @@
         "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
         "fileSize": 78592,
         "status": 1,
-        "language": "ta",
         "authors": [
             "NivinCNC"
         ],
