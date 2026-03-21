@@ -1,30 +1,9 @@
 [
-  {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Extractors/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 47359,
-        "status": 1,
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime"
-        ],
-        "version": 87,
-        "internalName": "Extractors",
-        "description": "Must Install(For other extensions to work properly)",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
-        "name": "Extractors"
-    },
-{
+   {
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 496434,
+        "fileSize": 618586,
         "status": 1,
         "authors": [
             "megix"
@@ -36,17 +15,17 @@
             "Anime",
             "Torrent"
         ],
-        "version": 321,
+        "version": 387,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
         "name": "CineStream"
     },
-  {
+ {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 946283,
+        "fileSize": 892002,
         "status": 1,
         "authors": [
             "Phisher98",
@@ -60,7 +39,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 529,
+        "version": 586,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -106,12 +85,12 @@
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
         "name": "NetMirror"
     },
-   {
+{
         "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
-        "jarFileSize": 375320,
+        "jarFileSize": 378668,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 78592,
+        "fileSize": 79608,
         "status": 1,
         "authors": [
             "NivinCNC"
@@ -119,19 +98,19 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 26,
+        "version": 29,
         "internalName": "CricifyProvider",
         "jarUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.jar",
         "description": "Watch Live sports and TV channels",
         "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.cs3",
         "name": "CricifyProvider"
     },
-   {
+  {
         "iconUrl": "https://appteka.store/get/a20p17EuCKFD08AaFsfH3JSJ6OU30ccp18WrKaNDze4LqOsDArhKj13-f-SjAayiWJH6P6pv9AlzhcfzEXlmRokU-I4=/726bbb91e36da425f55efce72cccb3a82df1d265.png",
-        "jarFileSize": 345546,
+        "jarFileSize": 389541,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 71079,
+        "fileSize": 77439,
         "status": 1,
         "authors": [
             "NivinCNC"
@@ -139,11 +118,11 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 2,
+        "version": 8,
         "internalName": "SKTechProvider",
         "jarUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SKTechProvider.jar",
         "description": "Watch Live sports and TV channels via SK Tech",
         "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SKTechProvider.cs3",
         "name": "SKTechProvider"
-    } 
+    }
 ]
