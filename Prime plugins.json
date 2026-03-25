@@ -46,24 +46,24 @@
         "name": "StreamPlay"
     },
      {
-        "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime_Repository/refs/heads/main/Prime%20logos/MovieBox.png",
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 48069,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 62954,
         "status": 1,
         "authors": [
-            "NivinCNC"
+            "NivinCNC,Phisher98"
         ],
         "tvTypes": [
             "Movie",
             "TvSeries"
         ],
-        "version": 10,
+        "version": 12,
         "internalName": "MovieBox",
         "description": "Multi Language Movies and Series Provider",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
         "name": "MovieBox"
-},
+    },
   {
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
         "apiVersion": 1,
