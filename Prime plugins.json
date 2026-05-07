@@ -1,128 +1,78 @@
 [
-   {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 618586,
-        "status": 1,
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime",
-            "Torrent"
-        ],
-        "version": 387,
-        "internalName": "CineStream",
-        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
-        "name": "CineStream"
-    },
- {
-        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 892002,
-        "status": 1,
-        "authors": [
-            "Phisher98",
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie",
-            "Cartoon",
-            "AnimeMovie"
-        ],
-        "version": 586,
-        "internalName": "StreamPlay",
-        "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
-        "name": "StreamPlay"
-    },
-     {
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 62954,
-        "status": 1,
-        "authors": [
-            "NivinCNC,Phisher98"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 12,
-        "internalName": "MovieBox",
-        "description": "Multi Language Movies and Series Provider",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
-        "name": "MovieBox"
-    },
   {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 57391,
-        "status": 1,
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "AsianDrama",
-            "Anime"
-        ],
-        "version": 45,
-        "internalName": "NetMirror",
-        "description": "Netflix, PrimeVideo(Lionsgate), JioHotstar(Hotstar, Disney, Paramount, HBO, Peacock) Content in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
-        "name": "NetMirror"
-    },
-{
-        "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
-        "jarFileSize": 378668,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 79608,
-        "status": 1,
-        "authors": [
-            "NivinCNC"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 29,
-        "internalName": "CricifyProvider",
-        "jarUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.jar",
-        "description": "Watch Live sports and TV channels",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.cs3",
-        "name": "CricifyProvider"
-    },
+    "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
+    "status": 1,
+    "version": 423,
+    "name": "CineStream",
+    "internalName": "CineStream",
+    "authors": ["megix"],
+    "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+    "fileSize": 642156,
+    "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+    "tvTypes": ["TvSeries", "Movie", "AsianDrama", "Anime", "Torrent"],
+    "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-783e408ce17f42124b9fedff01a242c23910dc8c8cb4570cd3a832511ac4defc"
+  },
   {
-        "iconUrl": "https://appteka.store/get/a20p17EuCKFD08AaFsfH3JSJ6OU30ccp18WrKaNDze4LqOsDArhKj13-f-SjAayiWJH6P6pv9AlzhcfzEXlmRokU-I4=/726bbb91e36da425f55efce72cccb3a82df1d265.png",
-        "jarFileSize": 389541,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 77439,
-        "status": 1,
-        "authors": [
-            "NivinCNC"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 8,
-        "internalName": "SKTechProvider",
-        "jarUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SKTechProvider.jar",
-        "description": "Watch Live sports and TV channels via SK Tech",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SKTechProvider.cs3",
-        "name": "SKTechProvider"
-    }
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+    "status": 1,
+    "version": 630,
+    "name": "StreamPlay",
+    "internalName": "StreamPlay",
+    "authors": ["Phisher98", "Hexated"],
+    "description": "#1 best extention based on MultiAPI",
+    "fileSize": 954316,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "en",
+    "tvTypes": ["AsianDrama", "TvSeries", "Anime", "Movie", "Cartoon", "AnimeMovie"],
+    "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+    "apiVersion": 1,
+    "fileHash": "sha256-5136bd1553a18b2aa22fad0ea976cf8205fe981a45a6988cf75bb154715aaa07"
+  },
+  {
+    "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+    "fileHash": "sha256-7586e8d3726a9d0ebf4bcc347bdb629d73a8b1e97f98055f6b4e9fb20aefce02",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "fileSize": 73623,
+    "status": 1,
+    "authors": ["NivinCNC"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 13,
+    "internalName": "MovieBoxProvider",
+    "description": "Multi Language Movies and Series Provider",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
+    "name": "MovieBoxProvider"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
+    "fileHash": "sha256-f1d0b246da23fe7379121c99921b73b186388bc286fd956fcaa86528ff6bcc20",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
+    "fileSize": 53798,
+    "status": 1,
+    "authors": ["Sushan64"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 43,
+    "internalName": "Netmirror",
+    "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+    "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
+    "name": "Netmirror"
+  },
+  {
+    "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
+    "fileHash": "sha256-9fce6ba20fe485ecde6fa389ab4343b936b090cd7ca0255b8dc1609ae971a841",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "fileSize": 82144,
+    "status": 1,
+    "authors": ["NivinCNC"],
+    "tvTypes": ["Live"],
+    "version": 30,
+    "internalName": "CricifyProvider",
+    "description": "Watch Live sports and TV channels",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.cs3",
+    "name": "CricifyProvider"
+  }
 ]
